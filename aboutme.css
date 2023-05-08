@@ -1,0 +1,27 @@
+.computer{
+    height: 130px;
+    width: 130px;
+}
+.web{
+    height: 130px;
+    width: 130px;
+}
+.all{
+    background-color:#C9EEFF;   
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+#edu{
+    margin-top: 5%;
+}
+.col-lg-4{
+    margin-bottom: 8%;
+}
+#p1,#p2{
+    font-family: 'Montserrat', sans-serif;
+    padding: 5% 2% 5% 2%;
+    line-height: 30px;
+}
+#topc{
+    margin-bottom: 5%;
+}
