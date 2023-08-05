@@ -1,0 +1,27 @@
+#all{
+    background-color:#C9EEFF;   
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+p{
+    padding-left: 8%;
+    padding-right: 8%;
+}
+#h1{
+    font-weight: bolder;
+    font-size: 4rem;
+}
+#h2{
+    font-weight: bold;
+}
+.fa-brands{
+font-size: 4rem;
+}
+#fa1{
+    font-size: large;
+}
+@media Screen and (max-width:1028px){
+    .fa-brands{
+        font-size: 2rem;
+        }
+}

@@ -1,0 +1,44 @@
+#all{
+    background-color:#C9EEFF;   
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#img{
+    height: 100px;
+    width: 100px;
+}
+#btm{
+    background-color: #ECF2FF;
+    padding: 0;
+    padding-bottom: 3%;
+}
+#ab{
+    font-size: 25px;
+    color: black;
+}
+#ab:hover{
+    color:orangered;
+}
+
+@media screen and (max-width:1028px){
+    p{
+        line-height: 10%;
+    }
+    #img{
+        margin-bottom: 8%;
+        margin-top: 5%;
+    }
+    #form{
+        margin-top: 10%;
+    }
+    #ab{
+        font-size: 40px;
+        margin: 0 2% 0 2%;
+        
+    }
+    #btm{
+        padding: 5%;
+        
+    }
+}
